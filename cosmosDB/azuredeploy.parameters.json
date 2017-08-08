@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "databaseAccountName": {
-      "value": "thiswillbemongodb"
+      "value": ""
     },
     "kind": {
-      "value": "MongoDB"
+      "value": ""
     }
   }
 }
